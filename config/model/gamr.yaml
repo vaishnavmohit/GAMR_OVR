@@ -1,0 +1,7 @@
+class_name: "baseline.models.${model.architecture}"
+architecture: "gamr"
+nclasses: ${training.nclasses}
+steps: ${model_optuna.steps}
+params:
+  pretrained: False
+  ckpt: ""

@@ -1,0 +1,4 @@
+1.0,gamr,AB,6,Base,1.0,100,64,0.0009,0.0001,/oscar/data/tserre/data/mvaishn1/gamr_stanford/data/OVR/runs/Base/AB/gamr/2023-09-03/10-37-52/checkpoints/epoch=02-val_acc_top1=1.000.ckpt,,False,1234
+0.9954426884651184,gamr,SD,6,NonTrivial,0.9954426884651184,100,64,0.0001,0.0001,/oscar/data/tserre/data/mvaishn1/gamr_stanford/data/OVR/runs/NonTrivial/SD/gamr/2023-09-03/10-34-49/checkpoints/epoch=27-val_acc_top1=0.995.ckpt,,False,1234
+0.711718738079071,gamr,AB,6,NonTrivial,0.9375,100,64,0.0009,0.0001,/oscar/data/tserre/data/mvaishn1/gamr_stanford/data/OVR/runs/NonTrivial/AB/gamr/2023-09-03/10-38-35/checkpoints/epoch=18-val_acc_top1=0.755.ckpt,,False,1234
+0.8989583253860474,gamr,SD,6,Base,0.984375,100,64,0.0001,0.0001,/oscar/data/tserre/data/mvaishn1/gamr_stanford/data/OVR/runs/Base/SD/gamr/2023-09-03/10-39-29/checkpoints/epoch=06-val_acc_top1=0.900.ckpt,,False,1234

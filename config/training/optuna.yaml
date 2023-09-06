@@ -1,0 +1,20 @@
+# data related
+data_type: "AB"
+batch_size: 256
+key: "Base"
+num_workers: 3
+
+# model
+nclasses: 2
+
+# save file
+csv: "result_gamr3ch_ovr"
+# testing model:
+test: False
+
+# train_v3.py
+neptune: True
+ckpt: ''
+optuna: False
+
+debug: False

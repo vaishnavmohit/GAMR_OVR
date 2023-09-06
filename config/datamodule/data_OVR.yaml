@@ -1,0 +1,5 @@
+_target_: baseline.data.data_module.DataModule_OVR
+batch_size: ${training.batch_size}
+data_type: ${training.data_type}
+num_workers: ${training.num_workers}
+key: ${training.key}
