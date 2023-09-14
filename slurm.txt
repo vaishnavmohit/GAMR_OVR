@@ -1,7 +1,7 @@
 sbatch -J AB_base_noPE scripts/run_data_all.sh Base AB .0009 .0001
-sbatch -J SD_base_noPE scripts/run_data_all.sh Base SD 4.0719736392466015e-05 0.008264534853590149 4
+sbatch -J SD_base_noPE scripts/run_data_all.sh Base SD 4.0719736392466015e-05 0.008264534853590149 6
 
-sbatch -J AB_NonTrivial_noPE scripts/run_data_all.sh NonTrivial AB .0009 .0001
+sbatch -J AB_NonTrivial_noPE scripts/run_data_all.sh NonTrivial AB 0.0008296788769863691 0.005292089421444062 4
 sbatch -J SD_NonTrivial_noPE scripts/run_data_all.sh NonTrivial SD 0.00022190426641144708 0.0022120360249216742 8
 
 sbatch -J AB_base scripts/run_data_all.sh Base AB .0009 
